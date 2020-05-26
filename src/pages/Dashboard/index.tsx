@@ -33,7 +33,7 @@ const Dashboard: React.FC = () => {
 
   useEffect(() => {
     localStorage.setItem(
-      '@GithubExplore:repositories',
+      '@GithubExplorer:repositories',
       JSON.stringify(repositories),
     );
   }, [repositories]);
