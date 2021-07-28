@@ -1,4 +1,4 @@
-# Primeiro projeto com React do Bootcamp Gostack 11 da Rocketseat
+# Primeiro projeto com React do Bootcamp Gostack 12 da Rocketseat
 
 Neste fase do curso vamos construir um front-end com React que irá consumir a API do github,
 iniciamos com o famoso CRA - Create React App do Facebook.
